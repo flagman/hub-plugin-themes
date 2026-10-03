@@ -20,12 +20,31 @@
     "code": "#00782a",
     "hl-attr": "#b31b18"
   },
-  "art": {"image": "level.png", "veil": 0.55, "position": "left bottom", "glass": true,
-          "credit": "World 1-1, Super Mario Bros. (Nintendo, 1985)"},
-  "icons": {"account": "sprites/MarioStanding.png", "clock": "sprites/CoinForBlueBG.gif", "flow": "sprites/Starman.gif",
-            "send": "sprites/FireFlower.gif", "board": "sprites/QuestionBlock.gif"},
-  "avatars": {"🧑‍💻": "sprites/LuigiStanding.png", "🛠": "sprites/Hammer.gif", "🛠️": "sprites/Hammer.gif",
-              "📦": "sprites/QuestionBlock.gif", "🔎": "sprites/Lakitu.gif", "🎨": "sprites/FireFlower.gif",
-              "🧪": "sprites/MagicMushroom.png", "🧭": "sprites/Starman.gif", "🤖": "sprites/LittleGoomba.gif"},
+  "art": {
+    "image": "level.png",
+    "veil": 0.55,
+    "position": "left bottom",
+    "glass": true,
+    "credit": "World 1-1, Super Mario Bros. (Nintendo, 1985)",
+    "plates": true
+  },
+  "icons": {
+    "account": "sprites/MarioStanding.png",
+    "clock": "sprites/CoinForBlueBG.png",
+    "flow": "sprites/Starman.png",
+    "send": "sprites/FireFlower.png",
+    "board": "sprites/QuestionBlock.png"
+  },
+  "avatars": {
+    "🧑‍💻": "sprites/LuigiStanding.png",
+    "🛠": "sprites/Hammer.png",
+    "🛠️": "sprites/Hammer.png",
+    "📦": "sprites/QuestionBlock.png",
+    "🔎": "sprites/Lakitu.png",
+    "🎨": "sprites/FireFlower.png",
+    "🧪": "sprites/MagicMushroom.png",
+    "🧭": "sprites/Starman.png",
+    "🤖": "sprites/LittleGoomba.png"
+  },
   "font": "PressStart2P.ttf"
 }
