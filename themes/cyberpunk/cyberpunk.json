@@ -1,0 +1,31 @@
+{
+  "name": "Cyberpunk 2077",
+  "dark": true,
+  "colors": {
+    "background": "#0a0a0f",
+    "foreground": "#f2f2f2",
+    "card": "#13131a",
+    "muted": "#1c1c24",
+    "muted-2": "#26262f",
+    "muted-foreground": "#b3b3bd",
+    "accent": "#22222b",
+    "border": "#4a4612",
+    "input": "#6b6519",
+    "primary": "#fcee0a",
+    "primary-foreground": "#000000",
+    "ring": "#00f0ff",
+    "destructive": "#ff2a55",
+    "warning": "#ff9e00",
+    "success": "#00ff9f",
+    "code": "#00f0ff",
+    "hl-attr": "#ff2a55"
+  },
+  "art": {"image": "night-city.jpg", "veil": 0.8, "position": "center 40%", "glass": true,
+          "credit": "Night City Wire, Cyberpunk 2077 (CD PROJEKT RED)"},
+  "icons": {"account": "emblems/samurai.png", "clock": "emblems/zetatech.png", "flow": "emblems/tyger.png",
+            "send": "emblems/kangtao.png", "board": "emblems/arasaka.png"},
+  "avatars": {"🧑‍💻": "emblems/netwatch.png", "🛠": "emblems/militech.png", "🛠️": "emblems/militech.png",
+              "📦": "emblems/arasaka.png", "🔎": "emblems/kiroshi.png", "🎨": "emblems/mox.png",
+              "🧪": "emblems/biotechnica.png", "🧭": "emblems/trauma.png", "🤖": "emblems/maelstrom.png"},
+  "font": "Exo2.ttf"
+}

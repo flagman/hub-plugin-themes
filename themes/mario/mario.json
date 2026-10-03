@@ -1,0 +1,31 @@
+{
+  "name": "Super Mario",
+  "dark": false,
+  "colors": {
+    "background": "#5c94fc",
+    "foreground": "#000000",
+    "card": "#fcf3d8",
+    "muted": "#f3e1b0",
+    "muted-2": "#ecd49a",
+    "muted-foreground": "#4a3a1a",
+    "accent": "#f3e1b0",
+    "border": "#c84c0c",
+    "input": "#c84c0c",
+    "primary": "#e52521",
+    "primary-foreground": "#ffffff",
+    "ring": "#000000",
+    "destructive": "#b31b18",
+    "warning": "#a14200",
+    "success": "#00782a",
+    "code": "#00782a",
+    "hl-attr": "#b31b18"
+  },
+  "art": {"image": "level.png", "veil": 0.55, "position": "left bottom", "glass": true,
+          "credit": "World 1-1, Super Mario Bros. (Nintendo, 1985)"},
+  "icons": {"account": "sprites/MarioStanding.png", "clock": "sprites/CoinForBlueBG.gif", "flow": "sprites/Starman.gif",
+            "send": "sprites/FireFlower.gif", "board": "sprites/QuestionBlock.gif"},
+  "avatars": {"🧑‍💻": "sprites/LuigiStanding.png", "🛠": "sprites/Hammer.gif", "🛠️": "sprites/Hammer.gif",
+              "📦": "sprites/QuestionBlock.gif", "🔎": "sprites/Lakitu.gif", "🎨": "sprites/FireFlower.gif",
+              "🧪": "sprites/MagicMushroom.png", "🧭": "sprites/Starman.gif", "🤖": "sprites/LittleGoomba.gif"},
+  "font": "PressStart2P.ttf"
+}
